@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Star Plus" group-title="Free HD",Star Plus
+http://103.135.253.32:8080/STAR-PLUS/index.m3u8
+#EXTINF:-1 tvg-name="Star Plus HD" group-title="Free HD",Star Plus HD
+https://livetv.shamon-cable.net:8443/Star-Plus-HD/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold HD" group-title="Free HD",Star Gold HD
+http://103.135.253.32:8080/STAR-GOLD-HD/index.m3u8
+#EXTINF:-1 tvg-name="Star Gold Select" group-title="Free HD",Star Gold Select
+https://livetv.shamon-cable.net:8443/StarGoldSelect/index.m3u8
+#EXTINF:-1 tvg-name="Star Bharat" group-title="Free HD",Star Bharat
+http://103.135.253.32:8080/STAR-BHARAT/index.m3u8
+#EXTINF:-1 tvg-name="Star Movies" group-title="Free HD",Star Movies
+http://103.135.253.32:8080/STAR-MOVIES/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Free HD",Star Sports 1 HD
+http://103.135.253.32:8080/STAR-SPORTS-1-HD/index.m3u8
+#EXTINF:-1 tvg-name="Star Sports Select 1" group-title="Free HD",Star Sports Select 1
+http://103.135.253.32:8080/STAR-SPORTS-SELECT-1/index.m3u8
+#EXTINF:-1 tvg-name="Sony SET HD" group-title="Free HD",Sony SET HD
+http://38.96.178.205/SONYHD/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max HD" group-title="Free HD",Sony Max HD
+http://103.135.253.32:8080/Sony-Max-HD/index.m3u8
+#EXTINF:-1 tvg-name="Sony Yay" group-title="Free HD",Sony Yay
+http://103.135.253.32:8080/SONY-YAY/index.m3u8
+#EXTINF:-1 tvg-name="Colors HD" group-title="Free HD",Colors HD
+http://103.135.253.32:8080/Color-HD/index.m3u8
+#EXTINF:-1 tvg-name="Zee TV" group-title="Free HD",Zee TV
+http://103.135.253.32:8080/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-name="Zee Cinema" group-title="Free HD",Zee Cinema
+http://103.135.253.32:8080/ZEE-CINEMA/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" group-title="Free HD",Discovery Channel
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet" group-title="Free HD",Animal Planet
+http://103.135.253.32:8080/ANIMAL-PLANET/index.m3u8
+#EXTINF:-1 tvg-name="Nick" group-title="Free HD",Nick
+http://103.135.253.32:8080/NICK/index.m3u8
+#EXTINF:-1 tvg-name="Pogo" group-title="Free HD",Pogo
+http://103.135.253.32:8080/POGO/index.m3u8
+#EXTINF:-1 tvg-name="Hungama" group-title="Free HD",Hungama
+http://103.135.253.32:8080/HUNGAMA/index.m3u8
+#EXTINF:-1 tvg-name="B4U Movies" group-title="Free HD",B4U Movies
+http://103.135.253.32:8080/B4U-MOVIES/index.m3u8
+#EXTINF:-1 tvg-name="B4U Music" group-title="Free HD",B4U Music
+https://amg00877-b4unew-amg00877c3-xiaomi-in-5474.playouts.now.amagi.tv/720p/index.m3u8
+#EXTINF:-1 tvg-name="Shemaroo TV" group-title="Free HD",Shemaroo TV
+https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Shemaroo Umang" group-title="Free HD",Shemaroo Umang
+https://airtelapp.shemaroo.com/shemarooumang/smil:shemarooumangadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="PTC Punjabi Gold" group-title="Free HD",PTC Punjabi Gold
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:-1 tvg-name="Cricket Gold" group-title="Free HD",Cricket Gold
+https://sofast-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8?hdnts=st%3D1794048170~exp%3D1794069770~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fb2048bb8-1686-4432-aa50-647245383e0c%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.150.182.80_yuppfast_2_channel_290_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.150.182.80_yuppfast_2_channel_290_-1~hmac%3Db454ec5d846709b86518171b25780e81cee8c9c7dc3b42d59202436660432407
+#EXTINF:-1 tvg-name="R Plus Gold" group-title="Free HD",R Plus Gold
+https://stream.ottlive.co.in/rplusgold/index.m3u8
+#EXTINF:-1 tvg-name="Zee Dil Se" group-title="Free HD",Zee Dil Se
+https://amg00862-amg00862c6-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c6-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee Cine Classic" group-title="Free HD",Zee Cine Classic
+https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
+#EXTINF:-1 tvg-name="Zee News" group-title="Free HD",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_57.m3u8
+#EXTINF:-1 tvg-name="Zee Business" group-title="Free HD",Zee Business
+https://zee-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/af1b3fa3-f56d-4741-9c63-78409a798988/main.m3u8?hdnts=st%3D1794048019~exp%3D1794069619~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Faf1b3fa3-f56d-4741-9c63-78409a798988%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.150.182.80_yuppfast_2_channel_5_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.150.182.80_yuppfast_2_channel_5_-1~hmac%3D902acb148d468f66fd3ae10ec0147bb6d6529b30b12b05e63241b39070cbe760
+#EXTINF:-1 tvg-name="Zee Bharat" group-title="Free HD",Zee Bharat
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeehindustan/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8
+#EXTINF:-1 tvg-name="Zee Hindustan" group-title="Free HD",Zee Hindustan
+https://zee-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/96bbab12-582e-4540-af70-510ab6824581/main.m3u8?hdnts=st%3D1794048006~exp%3D1794069606~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F96bbab12-582e-4540-af70-510ab6824581%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.150.182.80_yuppfast_2_channel_25_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.150.182.80_yuppfast_2_channel_25_-1~hmac%3Df412be592805b23ec8ad90c5c8c1c916f038c2654388bf433a0a92be92e5cad8
+#EXTINF:-1 tvg-name="Zee Salaam" group-title="Free HD",Zee Salaam
+https://zee-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/main.m3u8?hdnts=st%3D1794048057~exp%3D1794069657~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F426c6db7-595e-4aa8-859c-7e86ed2811d0%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.150.182.80_yuppfast_2_channel_27_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.150.182.80_yuppfast_2_channel_27_-1~hmac%3Da85e8b6f7ef1a4e49aa50b5deead664411e6dc67fa70a6511555ad2e73d41b9d
+#EXTINF:-1 tvg-name="Zee Rajasthan" group-title="Free HD",Zee Rajasthan
+https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
+#EXTINF:-1 tvg-name="Zee UP/UK" group-title="Free HD",Zee UP/UK
+https://zee-yupptv.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a8c57b70-538f-49ae-af12-2fc2acaa4ff1/main.m3u8?hdnts=st%3D1794048012~exp%3D1794069612~acl%3D%21%2A%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2Fa8c57b70-538f-49ae-af12-2fc2acaa4ff1%2F%2A%21%2Fpayload%2Fyupptvott_5_-1_7c03c72952b44aa4_US_4.150.182.80_yuppfast_2_channel_29_-1%2F%2A~data%3Dyupptvott_5_-1_7c03c72952b44aa4_US_4.150.182.80_yuppfast_2_channel_29_-1~hmac%3D8d45584c40fa61404e4c032888998da66b045e4e5496b4a4a92c89d06c47fcc8
